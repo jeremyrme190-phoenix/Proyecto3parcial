@@ -1,0 +1,16 @@
+date,name,passengers,cost,time
+2024-04-01,Ruta1,120,10,Mañana
+2024-04-02,Ruta2,85,12,Tarde
+2024-04-03,Ruta3,60,8,Noche
+2024-04-04,Ruta1,150,10,Mañana
+2024-04-05,Ruta2,,12,Tarde
+2024-04-06,Ruta3,55,8,Noche
+2024-04-07,Ruta1,200,10,Mañana
+2024-04-08,Ruta2,95,12,Tarde
+2024-04-09,Ruta3,-40,8,Noche
+2024-04-10,Ruta1,180,10,Mañana
+2024-04-11,Ruta2,100,12,Tarde
+2024-04-12,Ruta3,70,,Noche
+2024-04-13,Ruta1,210,10,Mañana
+2024-04-14,Ruta2,110,12,Tarde
+2024-04-15,Ruta3,65,8,Noche
